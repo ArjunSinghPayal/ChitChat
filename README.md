@@ -1,13 +1,13 @@
 <h1 align="center">ChitChat 💬</h1>
 
 <div align="center">
-  <img src="https://github.com/ArjunSinghPayal/fullstack-chat-app/blob/main/frontend/public/vite.svg" alt="ChitChat Logo" width="120"/>
+  <img src="https://github.com/ArjunSinghPayal/ChitChat/blob/main/frontend/public/vite.svg" alt="ChitChat Logo" width="120"/>
   <br />
   <strong>Real-time fullstack chat application for seamless and secure communication.</strong>
   <br />
   Built with ❤️ using React, Node.js, Express, MongoDB, and Socket.io
   <br /><br />
-  <a href="https://fullstack-chat-app-ncpq.onrender.com">🌐 Live Demo</a> • 
+  <a href="https://chitchat-vakn.onrender.com">🌐 Live Demo</a> • 
   <a href="#-features">📌 Features</a> • 
   <a href="#-installation">📦 Installation</a> • 
   <a href="#-technologies-used">🛠️ Tech Stack</a> • 
@@ -19,7 +19,7 @@
 ## 🚀 Preview
 
 <p align="center">
-  <img src="https://github.com/ArjunSinghPayal/fullstack-chat-app/blob/main/frontend/public/Screenshot 2025-08-06 000900.png" alt="App Preview" width="90%" />
+  <img src="https://github.com/ArjunSinghPayal/ChitChat/blob/main/frontend/public/Screenshot 2025-08-06 000900.png" alt="App Preview" width="90%" />
 </p>
 
 ---
@@ -52,12 +52,12 @@
 
 > Make sure you have **Node.js**, **MongoDB**, and **npm** installed.
 
-````bash
+```bash
 # Clone the repository
-git clone https://github.com/ArjunSinghPayal/fullstack-chat-app.git
+git clone https://github.com/ArjunSinghPayal/ChitChat.git
 
 # Change directory
-cd fullstack-chat-app
+cd ChitChat
 
 # Install dependencies
 npm install
@@ -103,5 +103,6 @@ Feel free to check issues page.
     Open a Pull Request
 
 
-<p align="center"> Made with 💙 by <a href="https://github.com/ArjunSinghPayal">Arjun Singh Payal</a> </p> ```
-````
+```
+
+<p align="center"> Made with 💙 by <a href="https://github.com/ArjunSinghPayal">Arjun Singh Payal</a> </p>
